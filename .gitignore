@@ -1,3 +1,2 @@
-!**/README.md
-
-logs/
+logs/*
+!logs/README.md
