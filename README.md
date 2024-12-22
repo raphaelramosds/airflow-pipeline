@@ -1,4 +1,4 @@
-# Airflow Pipeline
+# Airflow 
 
 ## O que é Apache Airflow?
 
@@ -26,3 +26,9 @@ O que vai definir a natureza de uma tarefa é a classe Operator que a define. Ab
 
 - BashOperator permite que a task execute comandos do bash
 - PythonOperator permite que a task execute comandos do python
+
+## Referencias
+
+[1] [Dependência entre DAGs](https://www.youtube.com/watch?v=MvjTQNMRhhY)
+
+[2] [Apache Airflow Tutoital](https://www.youtube.com/playlist?list=PLLNidqMOzeD5yXv9lDtBM-VJ5-1F-ZdXI)
