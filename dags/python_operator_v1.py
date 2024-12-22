@@ -8,8 +8,8 @@ import pprint
 Task que imprime um nome estatico utilizando pprint
 
 Observação:
- - BashOperator define task como um comando do bash
- - PythonOperator define a task como uma função do python
+ - Assim como o BashOperator define a task como um comando do bash
+   o PythonOperator define a task como uma função do python
 """
 def meu_codigo(**kwargs):
     print("andre")
