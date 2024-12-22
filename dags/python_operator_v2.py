@@ -24,4 +24,4 @@ def python_operator_v2():
 
     start >> python >> end
 
-create_dag = python_operator_v2()
+python_operator_v2()
